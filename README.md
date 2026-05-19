@@ -74,7 +74,7 @@ api-gestion-tareas/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/JanJ0/API-REST-Gestion-de-Tareas/edit/main/README.md
+git clone https://github.com/JanJ0/API-REST-Gestion-de-Tareas/tree/main
 ```
 
 ### 2. Entrar a la carpeta del proyecto
