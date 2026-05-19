@@ -520,15 +520,3 @@ Ejecutar normalmente:
 ```bash
 npm start
 ```
-
-## Autor
-
-Jean Luis Muñoz Rivera
-
-## Curso
-
-COMP2052.WEB DEV SERV-SIDE & MICROSER BKE
-
-## Profesora
-
-Milagros Donato Cintrón
